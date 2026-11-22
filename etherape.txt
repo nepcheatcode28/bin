@@ -1,0 +1,12 @@
+open root terminal in kali linux
+
+refresh 
+apt update
+
+install apt etherape
+
+for start etherape type 
+etherape
+
+open any website and etherape start runing
+do with 3 tabs 
